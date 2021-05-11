@@ -1,0 +1,105 @@
+*
+{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    background-color:cornflowerblue;
+}
+li a{
+    color:green;
+    display:inline;
+    background-color: wheat;
+    padding:0px;
+    text-decoration: none;
+    float:right;
+
+}
+
+li a:hover
+{
+    background-color: black;
+    color:cornsilk;
+}
+
+.image
+{
+    display:flex;
+    justify-content: center;
+    
+}
+   
+img
+{
+    
+    width:500px;
+    height:600px;
+    width:75%;
+    padding:15px;
+    margin:50px;
+}
+table
+{
+    border-collapse: collapse;
+    border: 1px solid black;
+    width:100%
+}
+td
+{
+    border: 1px solid black;
+    text-align: center;
+    height:150px;
+}
+.pix
+{
+    align-self: auto;
+    border: 1px dotted black;
+    padding:10px;
+    margin:45px;
+    background-color: blanchedalmond;
+    color:black;
+    border-spacing: 10px;
+
+}
+
+td{
+    border:1px solid black;
+}
+.jew
+{
+    padding:40px;
+    margin-top: 5px;   
+}
+
+
+.tab1
+{
+    padding:70px;
+    width:100%;
+}
+#nano
+{
+    background-color: blueviolet;
+    color: cornsilk;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 50px;
+
+}
+#nino
+{
+    background-color:blueviolet;
+    color: cornsilk;
+    padding-right: 10px;
+    padding-left: 50px;
+    font-size: 50px;
+}
+.bin
+{
+    background: chartreuse;
+    color:darkblue;
+}
+.aur
+{
+    background: chartreuse;
+    color:darkblue;
+}
